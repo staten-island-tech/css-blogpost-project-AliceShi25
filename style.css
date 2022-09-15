@@ -1,3 +1,16 @@
 body {
-  background-color: plum;
+  background-color: midnightblue;
+  color: black;
+  font-size: 30px;
+}
+h2 {
+  color: goldenrod;
+}
+.main-header {
+  color: gold;
+  text-align: center;
+  margin-top: 50px;
+  background-color: navy;
+  padding: 10px;
+  border: 1px solid gold;
 }

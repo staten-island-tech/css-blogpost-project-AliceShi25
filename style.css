@@ -14,6 +14,24 @@ h2 {
   padding: 10px;
   border: 1px solid gold;
 }
-.bju {
+.sub1 {
   background-color: cornflowerblue;
+  width: 50vw;
+  text-align: center;
+  margin: 50px auto;
+  border-radius: 25px;
+}
+.sub2 {
+  background-color: cornflowerblue;
+  width: 50vw;
+  text-align: center;
+  margin: 50px auto;
+  border-radius: 25px;
+}
+.sub3 {
+  background-color: cornflowerblue;
+  width: 50vw;
+  text-align: center;
+  margin: 50px auto;
+  border-radius: 25px;
 }

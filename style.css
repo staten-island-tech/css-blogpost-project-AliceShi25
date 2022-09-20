@@ -3,6 +3,13 @@ body {
   color: black;
   font-size: 30px;
 }
+
+*,
+body,
+html {
+  box-sizing: border-box;
+}
+
 h2 {
   color: goldenrod;
 }
@@ -14,24 +21,16 @@ h2 {
   padding: 10px;
   border: 1px solid gold;
 }
-.sub1 {
+.sub {
   background-color: cornflowerblue;
   width: 50vw;
   text-align: center;
   margin: 50px auto;
   border-radius: 25px;
 }
-.sub2 {
-  background-color: cornflowerblue;
-  width: 50vw;
-  text-align: center;
-  margin: 50px auto;
-  border-radius: 25px;
+.cat1 {
+  width: 20vw;
 }
-.sub3 {
-  background-color: cornflowerblue;
-  width: 50vw;
-  text-align: center;
-  margin: 50px auto;
-  border-radius: 25px;
+.cat2 {
+  width: 25vw;
 }

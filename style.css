@@ -2,6 +2,7 @@ body {
   background-color: midnightblue;
   color: black;
   font-size: 30px;
+  font-family: 'Caveat', cursive;
 }
 
 *,
@@ -21,16 +22,32 @@ h2 {
   padding: 10px;
   border: 1px solid gold;
 }
-.sub {
+.sub1 {
   background-color: cornflowerblue;
   width: 50vw;
   text-align: center;
   margin: 50px auto;
   border-radius: 25px;
+  
 }
+
+.sub2 {background-color: cornflowerblue;
+  width: 50vw;
+  text-align: center;
+  margin: 50px auto;
+  border-radius: 25px;
+}
+
+  .sub3 {background-color: cornflowerblue;
+    width: 50vw;
+    text-align: center;
+    margin: 50px auto;
+    border-radius: 25px;
+  }
+
 .cat1 {
-  width: 20vw;
+  width: 15vw;
 }
 .cat2 {
-  width: 25vw;
+  width: 15vw;
 }

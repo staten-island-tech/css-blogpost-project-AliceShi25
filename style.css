@@ -1,6 +1,6 @@
 body {
   background-color: midnightblue;
-  color: black;
+  color: aliceblue;
   font-size: 30px;
   font-family: "Caveat", cursive;
 }
@@ -12,15 +12,15 @@ html {
 }
 
 h2 {
-  color: goldenrod;
+  color: honeydew;
 }
 .main-header {
-  color: gold;
+  color: honeydew;
   text-align: center;
   margin-top: 50px;
-  background-color: navy;
+  background-color: midnightblue;
   padding: 10px;
-  border: 1px solid gold;
+  border: 1px solid aliceblue;
 }
 
 .sub {
@@ -28,6 +28,7 @@ h2 {
   text-align: center;
   margin: 50px auto;
   border-radius: 25px;
+  
 }
 .sub1 {
   background-color: cornflowerblue;
@@ -35,18 +36,12 @@ h2 {
 }
 
 .sub2 {
-  background-color: cornflowerblue;
-  width: 50vw;
-  text-align: center;
-  margin: 50px auto;
+  background-color: dodgerblue;
   border-radius: 25px;
 }
 
 .sub3 {
   background-color: cornflowerblue;
-  width: 50vw;
-  text-align: center;
-  margin: 50px auto;
   border-radius: 25px;
 }
 
